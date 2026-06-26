@@ -219,13 +219,12 @@ The objective of Campus Talk is to create a digital social discussion platform f
 
 # 👨‍💻 Developed By
 
-## Sreerang Prasad
+## Abhishek S
 
 MCA Student
 Full Stack & Web Developer
 
-GitHub:
-[https://github.com/Hazy-Arrow](https://github.com/Hazy-Arrow)
+
 
 ---
 
